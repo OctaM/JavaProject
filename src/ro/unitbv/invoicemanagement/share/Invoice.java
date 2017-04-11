@@ -1,4 +1,4 @@
-package ro.unitbv.invoicemanagement.model;
+package ro.unitbv.invoicemanagement.share;
 
 import java.time.LocalDateTime;
 import java.util.List;

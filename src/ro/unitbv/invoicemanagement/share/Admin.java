@@ -1,4 +1,4 @@
-package ro.unitbv.invoicemanagement.model;
+package ro.unitbv.invoicemanagement.share;
 
 public interface Admin {
 	public void approve();

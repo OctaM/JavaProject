@@ -1,4 +1,4 @@
-package ro.unitbv.invoicemanagement.model;
+package ro.unitbv.invoicemanagement.share;
 
 public class Administrator1 extends User implements Admin {
 	

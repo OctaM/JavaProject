@@ -1,4 +1,4 @@
-package ro.unitbv.invoicemanagement.model;
+package ro.unitbv.invoicemanagement.share;
 
 public enum Status {
 	APPROVED,

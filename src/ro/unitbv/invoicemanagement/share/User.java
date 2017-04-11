@@ -1,8 +1,10 @@
-package ro.unitbv.invoicemanagement.model;
+package ro.unitbv.invoicemanagement.share;
 
+import java.io.Serializable;
 import java.time.LocalDateTime;
 
-public class User {
+public class User implements Serializable {
+	private static final long serialVersionUID = 1L;
 	private String username;
 	private String password;
 	private LocalDateTime joinDate;
